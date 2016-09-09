@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485646134859",
+    "project_id": "vernal-tracer-137823"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485646134859:android:0f395b263c632b85",
+        "android_client_info": {
+          "package_name": "com.example.user.locationfinder3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485646134859-qtss7pfro5ktpn4afdb2e1lhp1d2kfml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.locationfinder3",
+            "certificate_hash": "CC529A7AEF930A64A7B072BA830483766EF20D5C"
+          }
+        },
+        {
+          "client_id": "485646134859-l8tlk7osnne5a7d213o69lib40ggavb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKcwd8WA8lIhSKoxbV4VT9KsrAGOSDrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

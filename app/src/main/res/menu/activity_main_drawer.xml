@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_police_contacts"
+            android:icon="@drawable/police"
+            android:title="Police Contacts" />
+        <item
+            android:id="@+id/nav_hospital_contacts"
+            android:icon="@drawable/hospital"
+            android:title="Hospital Contacts" />
+        <item
+            android:id="@+id/nav_personal_contacts"
+            android:icon="@drawable/personal"
+            android:title="Personal Contacts" />
+
+    </group>
+
+
+
+</menu>
